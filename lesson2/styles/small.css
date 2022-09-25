@@ -1,0 +1,88 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header, main, footer{
+    margin: 0 auto;
+    padding: o.75rem;
+    max-width: 30rem;
+}
+main{
+    margin: 0 auto;
+    max-width: 29rem;
+}
+header, footer{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    background-color: gray;
+    text-align: center;
+}
+
+footer{
+    font-size: 18px;
+}
+
+footer p{
+    color: greenyellow;
+    font-size: 16px;
+}
+h2{
+    border-top: 2px solid rgb(199, 196, 196);
+}
+section {
+    
+    margin: 0 auto 100px 0;
+    border: 10px auto black;
+    border-radius: 20px;
+    background-color: rgb(211, 212, 211);
+    border: double;
+
+}
+
+main{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    
+}
+
+.principle{
+    margin: 0;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: rgb(31, 36, 112);
+    
+    border-radius: 18px 18px 0 0;
+}
+
+.name{
+
+    padding: 20px;
+}
+
+a{  
+    font-weight: bold;
+    padding: 20px;
+}
+
+.screenshot{
+    margin: 15px 2px;
+    max-width: 28rem;
+    border: solid black;
+    
+}
+#pestshare{
+    margin: 15px 2px;
+    max-width: 28rem;
+    border: solid black;
+    
+}
+
+p { 
+    font-weight: bold;
+    color: black;
+    line-height: 2;
+    font-size: 16px;
+    padding: 20px;
+}
