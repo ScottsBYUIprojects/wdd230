@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+body {
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: 'Arvo', serif;
+    background-color: white;
+    height: 100%;
+  }
+
+
+  h1 {
+    float: right;
+    font-family: 'Passions Conflict', cursive;
+    font-size: 70px;
+    text-align: center;
+    color:greenyellow;
+  }
+
+  .subheading {
+    font-size: 1.5rem;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+  }
+
+  
+
+  header, nav, footer {
+    width: 45rem;
+    margin: 0 auto;
+    background-color: #003952;
+    color: white;
+
+    text-align: center;
+    border-radius: 10px;
+
+  }
+  main {
+    width: 600px;
+    margin: auto auto;
+  }
+  h2{
+    font-family: 'Arvo', serif;
+    font-size: 30px;
+    text-align: center;
+  }
+  footer{
+    font-size: 18px;
+  }
+  footer p{
+      color: greenyellow;
+      font-size: 16px;
+  }
+  .faceshot{
+    width: 150px;
+    height:  250px;
+
+  }
+  ul {
+    font-family: 'Arvo', serif;
+    font-size: 20px;
+  }

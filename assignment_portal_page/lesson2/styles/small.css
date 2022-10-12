@@ -68,12 +68,17 @@ a{
 
 .screenshot{
     margin: 15px 4px;
+    width: auto;
+    height: auto;
     max-width: 23rem;
+
     border: solid black;
     
 }
 #pestshare{
     margin: 15px 4px;
+    width: auto;
+    height: auto;
     max-width: 23rem;
     border: solid black;
     

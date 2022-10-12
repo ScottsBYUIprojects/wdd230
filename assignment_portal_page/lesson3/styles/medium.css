@@ -1,0 +1,22 @@
+@media only screen and (min-width: 32em) {
+    .navbar-nav {
+        display: flex;
+        flex-direction: row;
+
+    }
+	.nav-link {
+		font-size: 1.1rem;
+	}
+	main {
+		grid-template-columns: 1fr 1fr;
+	}
+    
+    header{
+        display: grid;
+        grid-template-columns: auto;
+        grid-template-rows: 1fr;
+      }
+
+
+}
+
